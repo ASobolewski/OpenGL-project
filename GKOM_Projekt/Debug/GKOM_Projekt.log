@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Gear.cpp
+c:\users\administrator\desktop\my\gkom\gkom_projekt\gear.cpp(15): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\desktop\my\gkom\gkom_projekt\gear.cpp(16): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+  Cylinder.cpp
+  Box.cpp
+  Generating Code...
+  GKOM_Projekt.vcxproj -> C:\Users\Administrator\Desktop\My\GKOM\Debug\GKOM_Projekt.exe
